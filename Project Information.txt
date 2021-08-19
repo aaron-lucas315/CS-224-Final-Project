@@ -1,0 +1,11 @@
+Name of the game: Kabooters of Habib
+Aaron Soares 25
+Bahzad Badvi 25
+Maham Shoaib 25
+Maheen Khan (Team Lead) 25
+
+Design Patterns:
+Singleton
+Observer
+Builder
+Composite Design Pattern
